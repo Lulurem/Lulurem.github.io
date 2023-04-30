@@ -1,0 +1,15 @@
+@import "reset.css";
+@import "main_top.css";
+@import "main_mid.css";
+@import "main_bot.css";
+
+#bgimg {
+  max-width: 300%;
+  height: 100vh;
+  height: auto;
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
